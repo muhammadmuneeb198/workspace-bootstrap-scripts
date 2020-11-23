@@ -1,0 +1,14 @@
+{
+    "extends": "eslint-config-commercecloud",
+    "rules": {
+    },
+    "overrides": [ 	{
+		"files": [ 
+			"scripts/*.js"
+		],
+		"env": {
+			"node": true,
+			"es6": true
+		}
+	}]
+}

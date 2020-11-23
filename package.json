@@ -1,0 +1,23 @@
+{
+  "name": "workspace-bootstrap-scripts",
+  "version": "1.0.0",
+  "description": "Script helpers to initialise a workspace.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalesforceCommerceCloud/workspace-bootstrap-scripts.git"
+  },
+  "author": "Salesforce Customer Success Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalesforceCommerceCloud/workspace-bootstrap-scripts/issues"
+  },
+  "scripts": {},
+  "homepage": "https://github.com/SalesforceCommerceCloud/workspace-bootstrap-scripts#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-commercecloud": "git+ssh://git@github.com/SalesforceCommerceCloud/styleguide.git#master"
+  }
+}
